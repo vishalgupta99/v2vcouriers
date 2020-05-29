@@ -1,0 +1,29 @@
+
+#track-body{
+    height: 100%;
+}
+
+p{
+    font-size: large;
+}
+.radio{
+    font-size: x-large;
+}
+#cover-track{
+    background: #222 url(../../assets/images/back-image.jpg) no-repeat ;
+    background-size: cover;
+    color:white;
+    max-height: 100%;
+    text-align:center;
+    display: flex;
+    align-items: center;
+}
+#cover-track-caption{
+    width: 100%;
+}
+#footer-track-main{
+    background: #222;
+    color:white;
+    font-size: small;
+    padding: 10px;
+}

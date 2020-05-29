@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files 
+html,
+body{
+    height: 100%;
+}
+
+#cover{
+    background: #222 url(src/app/images/back-image.jpg) no-repeat ;
+    background-size: cover;
+    color:white;
+    height: 100%;
+    text-align:left;
+    display: flex;
+    align-items: center;
+}
+#cover-caption{
+    width: 100%;
+}
+#footer-main{
+    background: #222;
+    color:white;
+    font-size: small;
+    padding: 10px;
+}
+*/
